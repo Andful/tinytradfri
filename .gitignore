@@ -1,0 +1,16 @@
+install-sh
+missing
+depcomp
+compile
+configure
+config.status
+*.m4
+Makefile.in
+Makefile
+.deps
+*.log
+*.cache
+*.o
+.vscode
+main
+test
