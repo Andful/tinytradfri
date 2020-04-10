@@ -12,5 +12,5 @@ Makefile
 *.cache
 *.o
 .vscode
-main
-test
+src/main
+tests/tests
